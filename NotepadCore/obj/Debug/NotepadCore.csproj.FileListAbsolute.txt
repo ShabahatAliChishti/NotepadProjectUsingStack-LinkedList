@@ -1,0 +1,27 @@
+E:\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\NotepadCore\bin\Debug\NotepadCore.dll
+E:\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\NotepadCore\bin\Debug\NotepadCore.pdb
+E:\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\NotepadCore\obj\Debug\NotepadCore.dll
+E:\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\NotepadCore\obj\Debug\NotepadCore.pdb
+E:\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\NotepadCore\obj\Debug\NotepadCore.csprojResolveAssemblyReference.cache
+E:\Notepad Project\Notepad-Using-CSharp-YT-master\NotepadCore\bin\Debug\NotepadCore.dll
+E:\Notepad Project\Notepad-Using-CSharp-YT-master\NotepadCore\bin\Debug\NotepadCore.pdb
+E:\Notepad Project\Notepad-Using-CSharp-YT-master\NotepadCore\obj\Debug\NotepadCore.dll
+E:\Notepad Project\Notepad-Using-CSharp-YT-master\NotepadCore\obj\Debug\NotepadCore.pdb
+C:\Users\Chishti\Documents\Visual Studio 2015\Projects\NotepadProject\NotepadCore\bin\Debug\NotepadCore.dll
+C:\Users\Chishti\Documents\Visual Studio 2015\Projects\NotepadProject\NotepadCore\bin\Debug\NotepadCore.pdb
+C:\Users\Chishti\Documents\Visual Studio 2015\Projects\NotepadProject\NotepadCore\obj\Debug\NotepadCore.dll
+C:\Users\Chishti\Documents\Visual Studio 2015\Projects\NotepadProject\NotepadCore\obj\Debug\NotepadCore.pdb
+C:\Users\Chishti\Desktop\NotepadProject\NotepadCore\bin\Debug\NotepadCore.dll
+C:\Users\Chishti\Desktop\NotepadProject\NotepadCore\bin\Debug\NotepadCore.pdb
+C:\Users\Chishti\Desktop\NotepadProject\NotepadCore\obj\Debug\NotepadCore.csprojResolveAssemblyReference.cache
+C:\Users\Chishti\Desktop\NotepadProject\NotepadCore\obj\Debug\NotepadCore.dll
+C:\Users\Chishti\Desktop\NotepadProject\NotepadCore\obj\Debug\NotepadCore.pdb
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadCore\bin\Debug\NotepadCore.dll
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadCore\bin\Debug\NotepadCore.pdb
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadCore\obj\Debug\NotepadCore.dll
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadCore\obj\Debug\NotepadCore.pdb
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadCore\bin\Debug\NotepadCore.dll
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadCore\bin\Debug\NotepadCore.pdb
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadCore\obj\Debug\NotepadCore.csprojResolveAssemblyReference.cache
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadCore\obj\Debug\NotepadCore.dll
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadCore\obj\Debug\NotepadCore.pdb

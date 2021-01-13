@@ -1,0 +1,73 @@
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\bin\Debug\NotepadProject.exe.config
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\bin\Debug\NotepadProject.exe
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\bin\Debug\NotepadProject.pdb
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\bin\Debug\NotepadCore.dll
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\bin\Debug\NotepadCore.pdb
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\obj\Debug\NotepadProject.csprojResolveAssemblyReference.cache
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\obj\Debug\Notepad.Forms.FormAbout.resources
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\obj\Debug\Notepad.Forms.FormFind.resources
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\obj\Debug\Notepad.Forms.FormReplace.resources
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\obj\Debug\NotepadProject.MainForm.resources
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Properties.Resources.resources
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\obj\Debug\NotepadProject.csproj.GenerateResource.Cache
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\obj\Debug\NotepadProject.exe
+C:\Users\Chishti\Documents\visual studio 2015\Projects\NotepadProject\NotepadProject\obj\Debug\NotepadProject.pdb
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\bin\Debug\NotepadProject.exe.config
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\obj\Debug\NotepadProject.exe
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\obj\Debug\NotepadProject.pdb
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\bin\Debug\NotepadProject.exe
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\bin\Debug\NotepadProject.pdb
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\bin\Debug\NotepadCore.dll
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\bin\Debug\NotepadCore.pdb
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\obj\Debug\NotepadProject.csprojResolveAssemblyReference.cache
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormAbout.resources
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormFind.resources
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormReplace.resources
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\obj\Debug\NotepadProject.MainForm.resources
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Properties.Resources.resources
+C:\Users\Chishti\Desktop\check\NotepadProject\NotepadProject\NotepadProject\obj\Debug\NotepadProject.csproj.GenerateResource.Cache
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\bin\Debug\NotepadProject.exe.config
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\obj\Debug\NotepadProject.exe
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\obj\Debug\NotepadProject.pdb
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\bin\Debug\NotepadProject.exe
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\bin\Debug\NotepadProject.pdb
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\bin\Debug\NotepadCore.dll
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\bin\Debug\NotepadCore.pdb
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\obj\Debug\NotepadProject.csprojResolveAssemblyReference.cache
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormAbout.resources
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormFind.resources
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormReplace.resources
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\obj\Debug\NotepadProject.MainForm.resources
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Properties.Resources.resources
+C:\Users\Chishti\Desktop\NotepadProject\NotepadProject\obj\Debug\NotepadProject.csproj.GenerateResource.Cache
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\bin\Debug\NotepadProject.exe.config
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\bin\Debug\NotepadProject.exe
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\bin\Debug\NotepadProject.pdb
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\bin\Debug\NotepadCore.dll
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\bin\Debug\NotepadCore.pdb
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.csprojResolveAssemblyReference.cache
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormAbout.resources
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormFind.resources
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormReplace.resources
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.MainForm.resources
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Properties.Resources.resources
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.csproj.GenerateResource.Cache
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.exe
+C:\Users\PC-003\Downloads\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.pdb
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\bin\Debug\NotepadProject.exe.config
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.exe
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.pdb
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\bin\Debug\NotepadProject.exe
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\bin\Debug\NotepadProject.pdb
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\bin\Debug\NotepadCore.dll
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\bin\Debug\NotepadCore.pdb
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.csprojResolveAssemblyReference.cache
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormAbout.resources
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormFind.resources
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Forms.FormReplace.resources
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.MainForm.resources
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.Properties.Resources.resources
+E:\NotepadProject new\NotepadProject new\NotepadProject\NotepadProject\obj\Debug\NotepadProject.csproj.GenerateResource.Cache
+E:\NotepadProjectFinal\NotepadProject\bin\Debug\NotepadProject.exe.config
+E:\NotepadProjectFinal\NotepadProject\obj\Debug\NotepadProject.exe
+E:\NotepadProjectFinal\NotepadProject\obj\Debug\NotepadProject.pdb
